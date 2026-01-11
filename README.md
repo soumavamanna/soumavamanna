@@ -1,15 +1,14 @@
-### ⚡ About Me
-I am a Computer Science engineering student passionate about two major domains:
-1.  **Artificial Intelligence:** Building models that understand language and data.
-2.  **Cybersecurity:** Understanding system vulnerabilities and network defense.
+### Hi there, I'm Soumava Manna 👋
+
+- 🎓 **Third-year CS Student** passionate about Data Science & NLP.
+- 🔭 I’m currently working on **Sentiment Analysis using Transformers**.
+- 🌱 I’m currently learning **Docker & Kubernetes**.
+- 👯 I’m looking to collaborate on **Open Source Python Projects**.
 
 ---
 
-### 🛠️ The Tech Stack
-I maintain two separate toolkits for my projects:
-
-| **🤖 AI & Data Science** | **🔐 Cybersecurity & Linux** |
-| :--- | :--- |
-| **Languages:** Python, SQL, C++, java | **Tools:** Burp Suite, Nmap, Wireshark |
-| **Libraries:** TensorFlow, Pandas, Spacy | **OS:** Kali Linux, Ubuntu, Windows |
-| **Focus:** NLP, Data Analysis | **Focus:** Network Security, Ethical Hacking |
+### 🛠 Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
