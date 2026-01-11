@@ -1,6 +1,6 @@
 ### Hi there, I'm Soumava Manna 👋
 
-- 🎓 **Third-year CS Student** passionate about Data Science & NLP.
+- 🎓 **Third-year CS Engineering Student** passionate about Data Science & NLP.
 - 🔭 I’m currently working on **Sentiment Analysis using Transformers**.
 - 🌱 I’m currently learning **Docker & Kubernetes**.
 - 👯 I’m looking to collaborate on **Open Source Python Projects**.
