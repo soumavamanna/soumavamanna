@@ -49,6 +49,6 @@ I am a 3rd-year Computer Science Engineering student focused on building intelli
 ---
 
 ### 📫 Let's Connect
-*   **LinkedIn:** [Your Profile Link]
+*   **LinkedIn:** https://www.linkedin.com/in/soumavamanna/
 *   **Portfolio:** [Your Website Link]
 *   **Email:** soumavamanna@gmail.com
