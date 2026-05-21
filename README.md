@@ -42,13 +42,6 @@ I am a 3rd-year Computer Science Engineering student focused on building intelli
 
 ---
 
-### 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_USERNAME]&layout=compact&theme=tokyonight)
-
----
-
 ### 📫 Let's Connect
 *   **LinkedIn:** https://www.linkedin.com/in/soumavamanna/
-*   **Portfolio:** [Your Website Link]
 *   **Email:** soumavamanna@gmail.com
